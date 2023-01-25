@@ -1,1 +1,1 @@
-# AVMS
+# Apartment Visiting Management system
